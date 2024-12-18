@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Bibek Shrestha!<br>💻 Full-Stack & Mobile Developer with a passion for building seamless user experiences across platforms.<br>📊 Also a Data Scientist, combining software development and data to solve complex problems.<br>👨‍💻 Experienced in Python, JavaScript, React, React Native, Swift, Kotlin, and SQL, with a passion for solving complex data problems.<br>🌱 Currently learning Power BI.<br>📫 Reach me at iambekstha@gmail.com or connect with me here on GitHub!<br><br>
+👋 Hi, I'm Bibek Shrestha!<br>💻 Full-Stack & Mobile Developer with a passion for building seamless user experiences across platforms.<br>📊 Also a Data Scientist, combining software development and data to solve complex problems.<br>👨‍💻 Experienced in Python, JavaScript, React, React Native, Swift, Kotlin, and SQL, with a passion for solving complex data problems.<br>🌱 Currently learning Flutter.<br>📫 Reach me at work.bibekshrestha@gmail.com or connect with me here on GitHub!<br><br>
 
 
 ## 🌐 Socials:
